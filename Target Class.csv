@@ -1,0 +1,21 @@
+Star,Temp,L,R,Abs Mag,Spec_Class,Spectral Class,Evolution Stage
+Alpha Centauri A,5790,1.14,1.08,4.37,G2V,G,Main Sequence
+Alpha Centauri B,5260,0.5,0.86,5.24,K1V,K,Main Sequence
+Proxima Centauri,3042,0.0016,0.15,15.49,M5.5Ve,M,Red Dwarf
+Sirius A,9940,25,1.7,-1.47,A1Vm,A,Main Sequence
+Betelgeuse,3500,100000,700,-5.8,M1-2Ia,M,Supergiant
+Rigel,12100,120000,74.1,-6.7,B8Ia,B,Supergiant
+Polaris,6000,2400,30,-3.6,F7Ib,F,Main Sequence
+Vega,9600,40,2.5,0.03,A0V,A,Main Sequence
+Antares,3500,10000,883,-5.2,M1.5Iab,M,Supergiant
+Arcturus,4290,210,25,-0.3,K1.5III,K,Main Sequence
+Aldebaran,3890,425,44,-0.75,K5III,K,Main Sequence
+Canopus,7350,14000,71,-5.5,F0Ia,F,Supergiant
+Procyon A,6550,7,1.5,0.38,F5IV,F,Main Sequence
+Altair,7350,10,1.8,0.79,A7V,A,Main Sequence
+Deneb,8500,200000,200,-7.2,A2Ia,A,Supergiant
+Castor,9940,20,1.9,0.08,A1V,A,Main Sequence
+Pollux,3890,425,44,-0.75,K5III,K,Main Sequence
+Regulus,9600,350,3.5,-0.3,B7V,B,Main Sequence
+Adhara,10000,10000,28,-4.1,B1I,B,Supergiant
+Capella,4940,79,12,-0.08,G5III,G,Main Sequence
